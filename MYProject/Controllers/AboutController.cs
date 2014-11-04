@@ -13,6 +13,7 @@ namespace MYProject.Controllers
 
         public ActionResult Index()
         {
+            int x;
             return View();
         }
 
