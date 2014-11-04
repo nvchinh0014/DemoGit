@@ -15,6 +15,7 @@ namespace MYProject.Controllers
         {
             int i;
             int j;
+            int x = 9;
             i = 50;
             j = 90;
             return View();

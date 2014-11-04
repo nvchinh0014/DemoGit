@@ -26,6 +26,6 @@ D:\ProjectDemo\MYProject\bin\System.Web.Razor.xml
 D:\ProjectDemo\MYProject\bin\System.Web.WebPages.xml
 D:\ProjectDemo\MYProject\bin\System.Web.WebPages.Deployment.xml
 D:\ProjectDemo\MYProject\bin\System.Web.WebPages.Razor.xml
-D:\ProjectDemo\MYProject\obj\Debug\MYProject.csprojResolveAssemblyReference.cache
+D:\ProjectDemo\MYProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
 D:\ProjectDemo\MYProject\obj\Debug\MYProject.dll
 D:\ProjectDemo\MYProject\obj\Debug\MYProject.pdb
