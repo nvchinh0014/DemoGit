@@ -15,7 +15,11 @@ namespace MYProject.Controllers
         {
             int x;
             string s = string.Empty;
-            
+            int y;
+
+            x = 20;
+            y = 30;
+
             return View();
         }
 
