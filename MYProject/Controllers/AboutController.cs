@@ -14,6 +14,8 @@ namespace MYProject.Controllers
         public ActionResult Index()
         {
             int x;
+            string s = string.Empty;
+            
             return View();
         }
 
