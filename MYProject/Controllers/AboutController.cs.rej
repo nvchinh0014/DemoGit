@@ -1,0 +1,12 @@
+diff a/MYProject/Controllers/AboutController.cs b/MYProject/Controllers/AboutController.cs	(rejected hunks)
+@@ -13,7 +13,10 @@
+  
+          public ActionResult Index()
+          {
+++<<<<<<< Updated upstream
+ +            int x;
+++=======
+++>>>>>>> Stashed changes
+              return View();
+          }
+  
