@@ -13,13 +13,20 @@ namespace MYProject.Controllers
 
         public ActionResult Index()
         {
+	    
             int i;
             int j;
             int x = 29;
             i = 50;
             j = 90;
+            Add(i,j);
             return View();
         }
+	
+	private int Add(int a,int b)
+	{
+	    return a+b;
+	}
 
     }
 }
