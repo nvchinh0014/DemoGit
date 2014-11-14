@@ -15,6 +15,13 @@ namespace MyProject
             int b;
             a = 45;
             b = 90;
+
+	    Sum(a,b);
         }
+
+        private int Sum(int x,int y)
+        {
+		return(x+y);
+	}
     }
 }
