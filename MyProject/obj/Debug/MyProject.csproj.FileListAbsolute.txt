@@ -1,0 +1,4 @@
+D:\ProjectDemo\MyProject\bin\MyProject.dll
+D:\ProjectDemo\MyProject\bin\MyProject.pdb
+D:\ProjectDemo\MyProject\obj\Debug\MyProject.dll
+D:\ProjectDemo\MyProject\obj\Debug\MyProject.pdb
