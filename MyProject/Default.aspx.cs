@@ -16,12 +16,20 @@ namespace MyProject
             a = 45;
             b = 90;
 
-	    Sum(a,b);
+
+        Sum(a,b);
         }
 
         private int Sum(int x,int y)
         {
-		return(x+y);
-	}
+            return(x+y);
+        }
+
+
+        private int Sub(int x, int y)
+        {
+            return x - y;
+        }
+
     }
 }
